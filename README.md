@@ -13,3 +13,5 @@ yarn build
 ```
 
 to bundle your application
+
+rough draft: https://mheerspink75.github.io/portfolio_draft/
